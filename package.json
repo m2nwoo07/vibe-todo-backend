@@ -9,7 +9,9 @@
     "dev": "node --watch index.js"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "serverless-http": "^3.2.0",
     "mongoose": "^8.9.3"
   },
   "engines": {
